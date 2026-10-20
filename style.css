@@ -24,7 +24,7 @@ body{
     border:5px solid oklch(65.367% 0.11217 232.21);
 }
 #a00 h1,#a00 p{
-    display:none;
+    display:block;
     background-color: oklch(95.913%  0.04 141.721);
     border:3px solid oklch(65.367% 0.11217 141.721);
 }
