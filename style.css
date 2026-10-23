@@ -38,7 +38,11 @@ body{
     background-color: oklch(94.132% 0.03054 88.372);
     border:5px solid oklch(65.367% 0.11217 88.372);
 }
-#a011 div{
+#a013{
+    background-color: oklch(94.132% 0.03054 88.372);
+    border:5px solid oklch(65.367% 0.11217 88.372);
+}
+#a011 div,#a013 div{
     margin:10px;
     padding:10px;
     background-color: oklch(95.913% 0.04 165.48);
